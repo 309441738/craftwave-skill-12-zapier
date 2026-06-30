@@ -1,0 +1,10 @@
+{
+  "title": "邮轮搜索工具",
+  "description": "一个强大的邮轮搜索工具，可帮助用户按关键词快速找到所需的邮轮产品。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
